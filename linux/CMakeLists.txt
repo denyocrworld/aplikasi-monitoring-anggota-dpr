@@ -7,7 +7,7 @@ project(runner LANGUAGES CXX)
 set(BINARY_NAME "aplikasi_monitoring_anggota_dpr")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID "com.example.aplikasi_monitoring_anggota_dpr")
+set(APPLICATION_ID "com.capekngoding.aplikasi_monitoring_anggota_dpr")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
